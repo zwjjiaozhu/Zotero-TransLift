@@ -73,7 +73,7 @@
 
 这是 TransLift 的**发行仓库**：用于托管安装包、版本说明和问题反馈，插件源码不在本仓库公开。
 
-- [dist/trans-lift_2.9.3.xpi](https://github.com/zwjjiaozhu/Zotero-TransLift/raw/main/dist/trans-lift_2.9.3.xpi) — 当前安装包直链，与最新 Release 附件为同一文件（插件内部版本 2.9.5）。
+- [dist/trans-lift_2.9.5.xpi](https://github.com/zwjjiaozhu/Zotero-TransLift/raw/main/dist/trans-lift_2.9.5.xpi) — 当前安装包直链，与最新 Release 附件为同一文件（sha256 `58773227035fbdb8d47882f4944732e55e396f75ade411b3be2932fdbb40f6b6`）。
 - [CHANGELOG.md](CHANGELOG.md) — 版本更新说明。
 
 ## 许可
