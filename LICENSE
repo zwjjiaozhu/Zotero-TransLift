@@ -1,201 +1,74 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+TransLift（饺子翻译）商业软件许可协议
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Copyright (c) 2026 山君竹萌 / 饺子翻译（jztranslate.com）
+本软件为商业闭源软件，开发者保留包括但不限于全部著作权、专利权、商标权及商业秘密在内的一切权利。
+本仓库为发行仓库，仅用于托管安装包、版本说明与问题反馈，本软件不提供源代码。
 
-   1. Definitions.
+## 1. 授权前提
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+本软件不提供无需授权的使用权。你只有在同时满足以下条件时，方可安装、复制或使用本软件：
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+- 已注册饺子账号，并接受官网（https://www.jztranslate.com）公布的用户协议与计费条款；
+- 你的账号具备相应功能所需的授权（开发者提供的免费额度视为一种试用授权，付费会员视为订阅授权）；
+- 你的使用场景属于本协议第 2 条允许的范围。
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+授权与你的账号绑定，不可转让、不可再许可、不可共享。开发者有权自行决定授权的取得方式、额度、
+有效期、价格与可用功能，并可对违规或异常使用中止授权。
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+## 2. 授权范围
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+在授权有效期内，开发者授予你一项非独占、不可转让的许可，允许你在本人控制的设备上安装并运行本软件，
+用于个人学习、教学与科研目的的阅读与翻译。
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+超出个人非商业范围的使用均需另行取得商业授权，包括但不限于：企业、事业单位、高校院系、实验室、
+图书馆、培训机构等组织内的部署或集中采购使用；将本软件或其输出用于经营性活动；以本软件为基础向他人
+提供培训、服务或产品。商业授权请按实际席位数或整体范围与开发者另行约定。
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+## 3. 禁止行为
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+你不得，也不得协助他人：
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+- 对本软件进行反向工程、反编译、反汇编，或以其他方式尝试获取、还原源代码或算法实现；
+- 绕过、修改、破坏或规避会员校验、额度限制、鉴权逻辑及任何技术保护措施，亦不得传播用于实现上述目的的工具、
+  教程或服务；
+- 共享账号、转借授权、批量注册套利，或以任何方式使未经授权的设备、人员获得本软件功能；
+- 从非官方渠道获取、分发、镜像、二次打包本软件的安装包，或删除或更改其中的署名、标识与本协议内容；
+- 将本软件或其在线服务能力用于商业转售、代充、代理或对外提供二次服务；
+- 利用本软件自动化地大批量抓取第三方翻译或 AI 服务，或违反相应第三方服务的服务条款。
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+你仅可从官方渠道（https://github.com/zwjjiaozhu/Zotero-TransLift/releases 或 https://www.jztranslate.com）
+获取安装包。
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+## 4. 第三方接口
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+本软件支持在设置中填入你自己的第三方接口参数（如百度 `appid`/`key`、DeepL 等）调用相应翻译通道。
+此类通道的可用性、费用与合规责任由你与第三方之间结算，不构成开发者对你的额外授权，也不影响本软件自身的
+许可条件。
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+## 5. 商标
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+"饺子翻译""TransLift"及 `jztranslate.com` 相关名称、标识与图标归开发者所有。本协议不授予任何商标、
+商号或品牌使用权。
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+## 6. 数据与隐私
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+本软件为完成翻译、文档解析与 AI 对话功能，会将相应文本发送至你所选择的引擎服务端或开发者运营的服务端。
+数据处理方式见官网说明。开发者不对第三方服务的可用性、准确性与合规性负责。
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+## 7. 免责声明
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+本软件按"现状"提供，在法律允许的范围内，开发者不对本软件的适销性、特定用途适用性及无错误作出任何明示或
+默示担保。因使用本软件或其输出结果（包括译文与 AI 生成内容）造成的直接或间接损失，开发者不承担责任。
+译文仅供阅读参考，请勿作为学术、法律、医疗等正式用途的唯一依据。
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+## 8. 协议终止
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+你违反本协议任一条款时，本协议项下的授权自动终止，你应停止使用并删除本软件的全部副本。授权终止不影响
+终止前已产生的费用与责任。开发者可在后续版本中更新本协议，更新后的协议随新版本发布生效，继续使用即视为
+接受。
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+## 9. 联系与授权申请
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+问题反馈：https://github.com/zwjjiaozhu/Zotero-TransLift/issues
+商业授权与机构采购：通过官网联系方式与开发者另行约定
+使用文档：https://docs.jztranslate.com

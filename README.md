@@ -55,7 +55,7 @@
 
 ## 账号与费用
 
-插件本身免费提供下载和安装，翻译与 AI 能力的用量按饺子账号的免费额度 / 会员计费，具体见 [官网](https://www.jztranslate.com)。部分翻译通道也支持在设置里填写你自己的接口参数（如百度 `appid` + `key`、DeepL 等），此时不消耗饺子账号额度。
+插件安装包可免费下载，但使用需先注册饺子账号取得授权（详见 [LICENSE](LICENSE)）；翻译与 AI 能力的用量按账号的免费额度 / 会员计费，具体见 [官网](https://www.jztranslate.com)。部分翻译通道也支持在设置里填写你自己的接口参数（如百度 `appid` + `key`、DeepL 等），此时不消耗饺子账号额度。
 
 ## 数据说明
 
@@ -73,9 +73,9 @@
 
 这是 TransLift 的**发行仓库**：用于托管安装包、版本说明和问题反馈，插件源码不在本仓库公开。
 
-- [dist/trans-lift-2.9.3.xpi](https://github.com/zwjjiaozhu/Zotero-TransLift/raw/main/dist/trans-lift-2.9.3.xpi) — 安装包直链，内容与 Releases 一致。
+- [dist/trans-lift_2.9.3.xpi](https://github.com/zwjjiaozhu/Zotero-TransLift/raw/main/dist/trans-lift_2.9.3.xpi) — 当前安装包直链，与最新 Release 附件为同一文件（插件内部版本 2.9.5）。
 - [CHANGELOG.md](CHANGELOG.md) — 版本更新说明。
 
 ## 许可
 
-本仓库内文档按 [LICENSE](LICENSE) 授权；插件安装包（`.xpi`）为闭源分发型软件，最终用户条款见 [官网](https://www.jztranslate.com)。
+本软件为闭源商业软件，使用需遵守 [LICENSE](LICENSE) 中的商业许可协议：授权与饺子账号绑定，免费额度视为试用授权、会员视为订阅授权；本协议仅覆盖个人非商业使用，企业、高校院系、图书馆、培训机构等组织内使用需另行取得商业授权。安装包请仅从本仓库 Releases 或 [官网](https://www.jztranslate.com) 获取。
