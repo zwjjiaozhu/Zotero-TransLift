@@ -2,7 +2,7 @@
   <img src="assets/icon.png" width="96" alt="TransLift 图标" />
 </p>
 
-<h1 align="center">TransLift · 饺子翻译</h1>
+<h1 align="center">Zotero TransLift 插件</h1>
 
 <p align="center">
   Zotero 内的 AI 翻译与阅读插件：全文翻译、划词翻译、双语对照、AI 助手、AI 大纲。
